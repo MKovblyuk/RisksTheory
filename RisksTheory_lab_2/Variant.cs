@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace RisksThery_Lab_2
 {
+    //class represents a variant of the company
     class Variant
     {
         public double probSuccess;
