@@ -75,14 +75,5 @@ namespace RisksTheory_lab_3
                 MessageBox.Show("Incorrect data");
             }
         }
-
-        private void label11_Click(object sender, EventArgs e)
-        {
-
-        }
-        private void label12_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
